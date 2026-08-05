@@ -4,7 +4,7 @@ A tiny practice project for learning the PR workflow: fork/branch, commit, push,
 
 ## What's here
 
-`math_utils.py` has four basic functions: `add`, `subtract`, `multiply`, `divide`.
+`math_utils.py` has five basic functions: `add`, `subtract`, `multiply`, `divide`, `power`.
 
 Run the tests with:
 
